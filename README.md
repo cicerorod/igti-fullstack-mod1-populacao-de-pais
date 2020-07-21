@@ -20,8 +20,8 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
 
 1. Clonar o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais.git`
 2. Na pasta raiz, executar o arquivo: `index.html`
-
-## :hammer: Bibliotecas e tecnologias utilizadas:    
+<!-- :hammer:-->
+## <img src="https://img.icons8.com/ios-filled/26/000000/hammer.png"/> Bibliotecas e tecnologias utilizadas:    
 
 - **HTML**
 - **JavaScript**
