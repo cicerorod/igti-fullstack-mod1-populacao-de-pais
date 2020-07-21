@@ -1,4 +1,4 @@
-# Países e população consumindo via API
+# Países e população consumidos via API
 Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página 
