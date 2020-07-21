@@ -1,7 +1,4 @@
 # Lista de paises e número de sua população consumindo API
-
-[![NPM Version][npm-image]][npm-url]
-
 Lista de países e número de sua população desenvolvido no bootcamp fullstack da IGTI
 
 ## 🎯 Html 
