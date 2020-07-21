@@ -6,12 +6,9 @@ Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
   <img src="https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais/blob/master/img/tela.PNG">
 </p>
 
-
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/api.png)  API utilizada para consumo dos dados 
 
 `<link>` : <https://restcountries.eu/rest/v2/all>
-
-
 
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
@@ -20,13 +17,13 @@ Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 <!-- :hammer:-->
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Bibliotecas e tecnologias utilizadas:    
 
-- **HTML**
-- **JavaScript**
-- **CSS**
-- **Json**
-- **Materialize-css**
-- **cloudflare**
-- **ES6+**
+- **[HTML](https://www.w3schools.com/html/)**
+- **[JavaScript](https://www.w3schools.com/js/)**
+- **[CSS](https://www.w3schools.com/Css/)**
+- **[Json](https://www.w3schools.com/js/js_json_intro.asp)**
+- **[Materialize-css](https://materializecss.com/)**- 
+- **[ES6+](https://www.w3schools.com/Js/js_es6.asp)**
+- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=hackingcarreira_wmc-github-gllemos)**
 
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
 
@@ -35,8 +32,6 @@ Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 3. Faça o _commit_ (`git commit -am 'Add some [nome]'`)
 4. _Push_ (`git push origin feature/[nome]`)
 5. Crie um novo _Pull Request_
-
-
 
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
