@@ -16,6 +16,11 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
 [![img.png](https://i.postimg.cc/3w8LgM61/img.png)](https://postimg.cc/qNFXTFp6)
 [![Tutorial-MEAN.png](https://i.postimg.cc/9MgHHfS3/Tutorial-MEAN.png)](https://postimg.cc/WFZHMsTS)-->
 
+## Execução
+
+1. Baixar o projeto em uma pasta de sua preferêcia;
+2. Na pasta raiz, executar o arquivo: `index.html'
+
 ## :hammer: Bibliotecas e tecnologias utilizadas:    
 
 - **HTML**
