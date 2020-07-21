@@ -29,7 +29,7 @@ Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 
 1. Faça o _fork_ do projeto (<https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/[nome]`)
-3. Faça o _commit_ (`git commit -am 'Add some [nome]'`)
+3. Faça o _commit_ (`git commit -am 'Add files [nome]'`)
 4. _Push_ (`git push origin feature/[nome]`)
 5. Crie um novo _Pull Request_
 
@@ -40,7 +40,7 @@ Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 [![](https://img.icons8.com/fluent/30/000000/github.png)](https://github.com/cicerorod)
 [![](https://img.icons8.com/metro/25/000000/linkedin.png)](https://www.linkedin.com/in/c%C3%ADcero-rodrigues-89623784/)
 [![](https://img.icons8.com/metro/25/000000/facebook.png)](https://www.facebook.com/cicero.rodrigues.90834)
-[![](https://img.icons8.com/material-rounded/30/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
+[![](https://img.icons8.com/material-rounded/35/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
 
 
 
