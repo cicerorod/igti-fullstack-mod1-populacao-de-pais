@@ -38,7 +38,7 @@ Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 <img src="https://avatars.githubusercontent.com/cicerorod" width=115>
 
 [![](https://img.icons8.com/fluent/30/000000/github.png)](https://github.com/cicerorod)
-[![](https://img.icons8.com/material-rounded/26/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
+[![](https://img.icons8.com/material-rounded/28/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
 [![](https://img.icons8.com/metro/26/000000/linkedin.png)](https://www.linkedin.com/in/c%C3%ADcero-rodrigues-89623784/)
 [![](https://img.icons8.com/metro/26/000000/facebook.png)](https://www.facebook.com/cicero.rodrigues.90834)
 [![](https://img.icons8.com/material-outlined/34/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
