@@ -43,5 +43,5 @@ Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 [![](https://img.icons8.com/material-rounded/30/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
 
 
-<a href="https://icons8.com/icon/85154/instagram">icon by Icons8</a>
 
+<a href="https://icons8.com/">icon by Icons8</a>
