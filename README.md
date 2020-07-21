@@ -1,7 +1,7 @@
 # Países e população consumindo via API
 Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Html 
+## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página 
 <p align="center">
   <img src="https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais/blob/master/img/tela.PNG">
 </p>
