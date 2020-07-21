@@ -2,7 +2,7 @@
 
 Lista de países e número de sua população desenvolvido no bootcamp fullstack da IGTI
 
-## 🎯 8Html 
+## 🎯 Html 
 <p align="center">
   <img src="https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais/blob/master/img/tela.PNG">
 </p>
