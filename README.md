@@ -26,6 +26,16 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
 - **cloudflare**
 - **ES6+**
 
+## Contribuições
+
+1. Faça o _fork_ do projeto (<https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais/fork>)
+2. Crie uma _branch_ para sua modificação (`git checkout -b feature/[nome]`)
+3. Faça o _commit_ (`git commit -am 'Add some [nome]'`)
+4. _Push_ (`git push origin feature/[nome]`)
+5. Crie um novo _Pull Request_
+
+
+
 ## Desenvolvedor
 
 [<img src="https://avatars.githubusercontent.com/cicerorod" width=115><br><sub>Cícero Rodrigues</sub>](https://github.com/cicerorod)
