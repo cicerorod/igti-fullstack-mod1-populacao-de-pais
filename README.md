@@ -6,7 +6,7 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
   <img src="https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais/blob/master/img/tela.PNG">
 </p>
 
-## <img src="https://img.icons8.com/ios-glyphs/30/000000/api.png"/> API utilizada para consumo dos dados 
+## <img src="https://img.icons8.com/ios-glyphs/26/000000/api.png"/> API utilizada para consumo dos dados 
 
 <!-- [Links](https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo)-->
 
@@ -31,7 +31,7 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
 - **cloudflare**
 - **ES6+**
 
-## <img src="https://img.icons8.com/ios-glyphs/30/000000/pull-request.png"/> Contribuições
+## <img src="https://img.icons8.com/ios-glyphs/26/000000/pull-request.png"/> Contribuições
 
 1. Faça o _fork_ do projeto (<https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/[nome]`)
@@ -41,6 +41,6 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
 
 
 
-## <img src="https://img.icons8.com/ios-glyphs/30/000000/code-file.png"/> Desenvolvedor
+## <img src="https://img.icons8.com/ios-glyphs/26/000000/code-file.png"/> Desenvolvedor
 
 [<img src="https://avatars.githubusercontent.com/cicerorod" width=115><br><sub>Cícero Rodrigues</sub>](https://github.com/cicerorod)
