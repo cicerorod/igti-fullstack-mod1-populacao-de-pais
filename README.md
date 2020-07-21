@@ -34,11 +34,8 @@ Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 5. Crie um novo _Pull Request_
 
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
-<!--
-[<img src="https://avatars.githubusercontent.com/cicerorod" width=115><br><sub>Cícero Rodrigues</sub>](https://github.com/cicerorod)
-![](https://img.icons8.com/metro/26/000000/facebook.png) ![](https://img.icons8.com/metro/26/000000/facebook.png)
--->
-[<img src="https://avatars.githubusercontent.com/cicerorod"]
+
+[<img src="https://avatars.githubusercontent.com/cicerorod" width=115>](https://github.com/cicerorod)
 
 [![](https://img.icons8.com/fluent/26/000000/github.png)](https://github.com/cicerorod)
 [![](https://img.icons8.com/metro/26/000000/facebook.png)](https://www.facebook.com/cicero.rodrigues.90834)
