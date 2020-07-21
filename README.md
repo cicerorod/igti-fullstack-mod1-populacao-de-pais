@@ -31,7 +31,7 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
 - **cloudflare**
 - **ES6+**
 
-## <img src="https://img.icons8.com/wired/64/000000/pull-request.png"/> Contribuições
+## <img src="https://img.icons8.com/ios-glyphs/30/000000/pull-request.png"/> Contribuições
 
 1. Faça o _fork_ do projeto (<https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/[nome]`)
