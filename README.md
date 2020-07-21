@@ -1,5 +1,5 @@
-# Lista de paises e número de sua população consumindo API
-Países e número de sua população desenvolvido no bootcamp fullstack da IGTI
+# Paises e número de sua população consumindo API
+Lista de países e número de sua população desenvolvido no bootcamp fullstack da IGTI
 
 ## 🎯 Html 
 <p align="center">
