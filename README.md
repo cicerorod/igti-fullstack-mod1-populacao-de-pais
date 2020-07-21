@@ -1,6 +1,6 @@
 # Lista de paises e número de sua população consumindo API
 
-Lista de paises e número de sua população desenvolvido no bootcamp fullstack da IGTI
+Lista de países e número de sua população desenvolvido no bootcamp fullstack da IGTI
 
 ## Html 🎯
 
