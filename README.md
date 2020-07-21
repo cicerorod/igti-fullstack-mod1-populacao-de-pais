@@ -6,7 +6,7 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
   <img src="https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais/blob/master/img/tela.PNG">
 </p>
 
-## :rocket: API utilizada para consumo dos dados 
+## <img src="https://img.icons8.com/ios-glyphs/30/000000/api.png"/> API utilizada para consumo dos dados 
 
 <!-- [Links](https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo)-->
 
@@ -41,6 +41,6 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
 
 
 
-## Desenvolvedor
+## <img src="https://img.icons8.com/ios-glyphs/30/000000/code-file.png"/> Desenvolvedor
 
 [<img src="https://avatars.githubusercontent.com/cicerorod" width=115><br><sub>Cícero Rodrigues</sub>](https://github.com/cicerorod)
