@@ -19,7 +19,7 @@ Lista de países e número de sua população desenvolvido no bootcamp fullstack
 ## Execução
 
 1. Baixar o projeto em uma pasta de sua preferêcia;
-2. Na pasta raiz, executar o arquivo: `index.html'
+2. Na pasta raiz, executar o arquivo: `index.html`
 
 ## :hammer: Bibliotecas e tecnologias utilizadas:    
 
