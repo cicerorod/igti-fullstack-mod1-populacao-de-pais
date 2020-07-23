@@ -12,8 +12,10 @@ Lista de países e população desenvolvidos no bootcamp fullstack da IGTI
 
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
-1. Clonar o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais.git`
-2. Na pasta raiz, executar o arquivo: `index.html`
+1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod1-populacao-de-pais.git`
+2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd igti-fullstack-mod1-populacao-de-pais`;
+3. Na pasta raiz, executar o arquivo: `index.html`
+
 <!-- :hammer:-->
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Bibliotecas e tecnologias utilizadas:    
 
